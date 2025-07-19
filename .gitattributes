@@ -1,1 +1,2 @@
 data/vectored_RuBQ_2.0_paragraphs.json filter=lfs diff=lfs merge=lfs -text
+vectored_RuBQ_2.0_paragraphs.rar filter=lfs diff=lfs merge=lfs -text
