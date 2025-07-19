@@ -1,0 +1,84 @@
+2025-07-18 15:44:29,222 - INFO - Загрузка данных из data\vectored_RuBQ_2.0_paragraphs.json
+2025-07-18 15:47:19,905 - INFO - Загрузка данных из data\vectored_RuBQ_2.0_paragraphs.json
+2025-07-18 15:47:32,160 - INFO - Создание PersistentClient в директории C:\PyCharm\Loymax\chroma_data
+2025-07-18 15:48:37,447 - INFO - Загрузка данных из data\vectored_RuBQ_2.0_paragraphs.json
+2025-07-18 15:48:49,890 - INFO - Создание PersistentClient в директории C:\PyCharm\Loymax\chroma_data
+2025-07-18 15:48:50,491 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 15:48:50,922 - INFO - Создана новая коллекция ru_bq_collection
+2025-07-18 15:48:51,681 - INFO - Добавление пакета 1 из 12 (с 0 по 5000)
+2025-07-18 15:48:54,391 - INFO - Добавление пакета 2 из 12 (с 5000 по 10000)
+2025-07-18 15:48:57,337 - INFO - Добавление пакета 3 из 12 (с 10000 по 15000)
+2025-07-18 15:49:00,813 - INFO - Добавление пакета 4 из 12 (с 15000 по 20000)
+2025-07-18 15:49:04,569 - INFO - Добавление пакета 5 из 12 (с 20000 по 25000)
+2025-07-18 15:49:08,521 - INFO - Добавление пакета 6 из 12 (с 25000 по 30000)
+2025-07-18 15:49:12,014 - INFO - Добавление пакета 7 из 12 (с 30000 по 35000)
+2025-07-18 15:49:15,890 - INFO - Добавление пакета 8 из 12 (с 35000 по 40000)
+2025-07-18 15:49:19,529 - INFO - Добавление пакета 9 из 12 (с 40000 по 45000)
+2025-07-18 15:49:23,676 - INFO - Добавление пакета 10 из 12 (с 45000 по 50000)
+2025-07-18 15:49:27,393 - INFO - Добавление пакета 11 из 12 (с 50000 по 55000)
+2025-07-18 15:49:31,556 - INFO - Добавление пакета 12 из 12 (с 55000 по 56766)
+2025-07-18 15:49:33,096 - INFO - Успешно добавлено 56766 записей в коллекцию.
+2025-07-18 15:49:33,096 - INFO - Содержимое директории C:\PyCharm\Loymax\chroma_data: ['57dcfe3c-44fb-4ea1-bd55-7122d0649475', 'chroma.sqlite3']
+2025-07-18 15:54:07,561 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 15:54:07,579 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 15:54:07,639 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 15:54:07,708 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 15:54:07,708 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 15:54:11,881 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 15:54:12,012 - INFO - Найдено 10 результатов
+2025-07-18 16:48:14,320 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 16:48:14,342 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 16:48:14,403 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 16:48:14,424 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 16:48:14,425 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 16:48:17,870 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 16:48:18,077 - INFO - Найдено 10 результатов
+2025-07-18 16:51:11,390 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 16:51:11,410 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 16:51:11,470 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 16:51:11,489 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 16:51:11,489 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 16:51:14,659 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 16:51:14,796 - INFO - Найдено 10 результатов
+2025-07-18 16:51:43,150 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 16:51:43,167 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 16:51:43,225 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 16:51:43,246 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 16:51:43,246 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 16:51:46,330 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 16:51:46,471 - INFO - Найдено 10 результатов
+2025-07-18 16:53:59,527 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 16:53:59,544 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 16:53:59,602 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 16:53:59,622 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 16:53:59,622 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 16:54:02,834 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 16:54:02,978 - INFO - Найдено 10 результатов
+2025-07-18 17:08:01,771 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-18 17:08:01,789 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-18 17:08:01,849 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-18 17:08:01,865 - INFO - Use pytorch device_name: cuda:0
+2025-07-18 17:08:01,865 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-18 17:08:05,142 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-18 17:08:05,274 - INFO - Найдено 10 результатов
+2025-07-19 00:58:25,690 - INFO - Инициализация PersistentClient для запроса: футбольный клуб в россии
+2025-07-19 00:58:25,717 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-19 00:58:26,107 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-19 00:58:26,138 - INFO - Use pytorch device_name: cuda:0
+2025-07-19 00:58:26,138 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-19 00:58:29,607 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-19 00:58:29,873 - INFO - Найдено 10 результатов
+2025-07-19 01:11:45,824 - INFO - Инициализация PersistentClient для запроса: примеры клубов россии
+2025-07-19 01:11:45,851 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-19 01:11:45,919 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-19 01:11:45,941 - INFO - Use pytorch device_name: cuda:0
+2025-07-19 01:11:45,941 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-19 01:11:49,532 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-19 01:11:49,743 - INFO - Найдено 10 результатов
+2025-07-19 01:12:29,233 - INFO - Инициализация PersistentClient для запроса: примеры футбольных клубов россии
+2025-07-19 01:12:29,256 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-19 01:12:29,317 - INFO - Загрузка SentenceTransformer и векторизация запроса
+2025-07-19 01:12:29,339 - INFO - Use pytorch device_name: cuda:0
+2025-07-19 01:12:29,339 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-19 01:12:32,811 - INFO - Выполнение поиска по вектору. Top_k=10
+2025-07-19 01:12:33,019 - INFO - Найдено 10 результатов

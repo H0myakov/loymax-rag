@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  rag_service:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./chroma_data:/app/chroma_data  #
+    depends_on:
+      - ollama
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"

@@ -1,0 +1,4 @@
+2025-07-15 22:26:09,721 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-15 22:26:13,186 - INFO - Модель загружена: all-MiniLM-L6-v2
+2025-07-15 22:26:13,512 - INFO - Найдено текстов для векторизации: 56766
+2025-07-15 22:27:48,617 - INFO - Векторы сохранены в data\vectored_RuBQ_2.0_paragraphs.json
